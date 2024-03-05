@@ -1,5 +1,5 @@
 # IoT-Subnetting-Security-System
-
+![](./ISSS_logo.png)
 ## Tool Description
 ISSS is a cybersecurity tool designed for IoT devices. The tool utilizes a machine learning model to analyze generated network traffic. Upon detecting malicious traffic, the tool identifies the actors involved in the communication and adds a firewall rule for these devices to isolate them from the network.
 
